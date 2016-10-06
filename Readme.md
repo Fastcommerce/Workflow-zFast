@@ -28,6 +28,6 @@ Todos os caminhos de **DESTINO**(.dest) contidos no arquivo **Gulpfile.babel** s
 - Substituir pelo caminho de sua loja. Exemplo: 
 
 ```
-//192.168.0.2/00010538/images/
+//192.168.0.2/IDLoja/images/
 ```
 - **Obs**: Existem mais caminhos de destino no arquivo Gulpfile.babel para seream alterados para o que está utilizando
