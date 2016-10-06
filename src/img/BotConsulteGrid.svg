@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="200px" height="50px" viewBox="0 0 200 50" enable-background="new 0 0 200 50" xml:space="preserve">
+<rect fill="#A3ABB0" width="200" height="50"/>
+<text transform="matrix(1 0 0 1 57.917 31.916)" fill="#FFFFFF" font-family="'Arial'" font-size="20">Consulte-nos</text>
+<rect fill="#8C969C" width="35.835" height="50"/>
+<path fill="#A3ABB0" d="M17.429,10.405C9.548,10.338,3.105,16.673,3.039,24.555c-0.066,7.881,6.268,14.323,14.148,14.39
+	c7.881,0.067,14.324-6.266,14.392-14.147C31.646,16.916,25.31,10.472,17.429,10.405z M17.205,36.929
+	c-6.768-0.058-12.206-5.591-12.148-12.357s5.59-12.206,12.355-12.148c6.768,0.058,12.207,5.59,12.148,12.357
+	C29.503,31.546,23.97,36.985,17.205,36.929z"/>
+<circle fill="#A3ABB0" cx="17.308" cy="24.676" r="11.039"/>
+<polygon fill="#8C969C" points="23.919,27.931 20.564,31.285 17.308,28.032 14.052,31.285 10.697,27.931 13.953,24.676 
+	10.697,21.42 14.052,18.064 17.308,21.32 20.564,18.064 23.919,21.42 20.664,24.676 "/>
+</svg>

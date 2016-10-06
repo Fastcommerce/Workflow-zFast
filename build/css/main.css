@@ -1,0 +1,40 @@
+body {
+  background: red;
+}
+
+div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+span {
+  margin: 10px 20px;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+
+@media only screen and (min-width:101px) and (max-width:1024px) {
+  body {
+    background: green;
+  }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1366px) {
+  body {
+    background: #40bf5e;
+  }
+}
+
+@media only screen and (min-width:1367px) and (max-width:1500px) {
+  body {
+    background: hsla(0,0%,100%,.5);
+  }
+}

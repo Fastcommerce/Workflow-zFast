@@ -1,0 +1,21 @@
+body
+	background red
+	+between(101px,1024px)
+		background green
+	+between(1024px,1366px)
+		background hsl(134, 50%, 50%)
+	+between(1367px,1500px)
+		background rgba(255,255,255,.5)
+
+div
+	display flex
+	flex-flow row wrap
+	justify-content center
+	transition all .5s ease
+
+span
+	margin-top 10px
+	margin-right 20px
+	margin-bottom 10px
+	margin-left 20px
+	filter blur( 5px )
