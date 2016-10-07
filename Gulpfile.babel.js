@@ -11,6 +11,7 @@ import uglify from 'gulp-uglify';
 import lost from 'lost';
 import poststylus from 'poststylus';
 import autoprefixer from 'autoprefixer';
+import concat from 'gulp-concat';
 
 const dirs = {
 	src:'src',
@@ -36,8 +37,9 @@ gulp.task('styles', ()=> {
 
 
 gulp.task('scripts', ()=> {
-  return gulp.src('./src/js/main.js')
+  return gulp.src('./src/js/*.js')
   // .pipe(uglify())
+  //.pipe(concat('plugins.js'))
   .pipe(gulp.dest('./build/js'))
 });
 

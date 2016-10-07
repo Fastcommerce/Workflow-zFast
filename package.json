@@ -14,6 +14,7 @@
     "babel-preset-es2015": "^6.14.0",
     "cssnano": "^3.7.5",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
     "gulp-group-css-media-queries": "^1.1.0",
     "gulp-imagemin": "^3.0.3",
     "gulp-plumber": "^1.1.0",
